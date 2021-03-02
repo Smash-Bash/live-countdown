@@ -1,4 +1,5 @@
 This is the documentation for the live countdown component, inspired by Fortnite's live events.
+Version v1.0
 
 ---------
 Important
